@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded", () => { const login = document.getElementById("login-form"); const register = document.getElementById("register-form"); login.addEventListener("submit", (e)=>{ e.preventDefault(); alert("Logged in (demo)"); }); register.addEventListener("submit", (e)=>{ e.preventDefault(); alert("Registered (demo)"); }); });

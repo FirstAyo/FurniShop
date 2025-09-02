@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shop All — FurniShop</title>
+  <meta name="description" content="Furniture shop template for students.">
+  
+    <link rel="stylesheet" href="css/tokens.css">
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/shop.css">
+    
+  
+</head>
+<body>
+  <div id="app-header"></div>
+  <main class="container" style="min-height:60vh">
+    
+<h1 class="main-title">All Products</h1>
+<div class="breadcrumbs">Home / Shop</div>
+<div style="display:flex; gap:.6rem; align-items:center; margin-bottom:.8rem;">
+  <label for="filter-category" style="margin:0;">Filter:</label>
+  <select id="filter-category">
+    <option value="">All</option>
+  </select>
+  <label for="sort-by" style="margin-left:1rem;margin-bottom:0;">Sort:</label>
+  <select id="sort-by">
+    <option value="">Featured</option>
+    <option value="price-asc">Price: Low to High</option>
+    <option value="price-desc">Price: High to Low</option>
+  </select>
+</div>
+<div id="product-grid" class="cards"></div>
+
+  </main>
+  <div id="app-footer"></div>
+  
+    <script src="js/components.js" defer></script>
+    <script src="js/main.js" defer></script>
+    <script src="js/data.js" defer></script>
+    <script src="js/shop.js" defer></script>
+  
+</body>
+</html>

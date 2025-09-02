@@ -1,0 +1,1 @@
+async function getProducts() { const res = await fetch("data/products.json"); if (!res.ok) throw new Error("Failed to load products.json. If running locally, use a dev server (e.g., `python -m http.server`)."); return await res.json(); }

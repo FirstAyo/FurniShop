@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Home — FurniShop</title>
+    <meta name="description" content="Furniture shop template for students." />
+
+    <link rel="stylesheet" href="css/tokens.css" />
+    <link rel="stylesheet" href="css/base.css" />
+    <link rel="stylesheet" href="css/index.css" />
+  </head>
+  <body>
+    <div id="app-header"></div>
+    <main class="container" style="min-height: 60vh">
+      <section class="hero">
+        <div class="hero-card">
+          <h1>Modern furniture that fits your space</h1>
+          <p>
+            Starter template with 20+ pages, responsive layout, JSON data, dark
+            mode, and a small cart/wishlist — ready to learn or extend.
+          </p>
+          <a class="cta" href="shop.html">Browse Shop →</a>
+        </div>
+        <div class="hero-card">
+          <strong>Quick links</strong>
+          <div class="breadcrumbs">
+            <a href="category-living.html">Living</a> ·
+            <a href="category-bedroom.html">Bedroom</a> ·
+            <a href="category-office.html">Office</a> ·
+            <a href="category-outdoor.html">Outdoor</a>
+          </div>
+          <div class="alert">
+            Tip: Toggle light/dark mode with the 🌓 button. Resize to see the
+            hamburger menu.
+          </div>
+        </div>
+      </section>
+
+      <h2 class="main-title">New Arrivals</h2>
+      <div id="home-grid" class="cards"></div>
+    </main>
+    <div id="app-footer"></div>
+
+    <script src="js/components.js" defer></script>
+    <script src="js/main.js" defer></script>
+    <script src="js/data.js" defer></script>
+    <script src="js/home.js" defer></script>
+  </body>
+</html>

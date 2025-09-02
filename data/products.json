@@ -1,0 +1,570 @@
+[
+  {
+    "id": 1,
+    "name": "Cozy Linen Sofa",
+    "category": "Living Room",
+    "price": 899,
+    "rating": 4.7,
+    "images": [
+      "img/p-02.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 25,
+    "colors": [
+      "Natural",
+      "Walnut",
+      "Charcoal"
+    ],
+    "tags": [
+      "modern",
+      "durable",
+      "popular"
+    ],
+    "description": "Demo description for Cozy Linen Sofa. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 2,
+    "name": "Mid-century Armchair",
+    "category": "Living Room",
+    "price": 249,
+    "rating": 4.6,
+    "images": [
+      "img/p-03.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 30,
+    "colors": [
+      "White",
+      "Oak",
+      "Navy"
+    ],
+    "tags": [
+      "modern",
+      "durable",
+      "popular"
+    ],
+    "description": "Demo description for Mid-century Armchair. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 3,
+    "name": "Oak Coffee Table",
+    "category": "Living Room",
+    "price": 199,
+    "rating": 4.5,
+    "images": [
+      "img/p-04.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 35,
+    "colors": [
+      "Natural",
+      "Walnut",
+      "Charcoal"
+    ],
+    "tags": [
+      "new",
+      "eco"
+    ],
+    "description": "Demo description for Oak Coffee Table. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 4,
+    "name": "Walnut TV Stand",
+    "category": "Living Room",
+    "price": 399,
+    "rating": 4.4,
+    "images": [
+      "img/p-05.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 40,
+    "colors": [
+      "White",
+      "Oak",
+      "Navy"
+    ],
+    "tags": [
+      "modern",
+      "durable",
+      "popular"
+    ],
+    "description": "Demo description for Walnut TV Stand. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 5,
+    "name": "Memory Foam Mattress",
+    "category": "Bedroom",
+    "price": 799,
+    "rating": 4.8,
+    "images": [
+      "img/p-06.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 45,
+    "colors": [
+      "Natural",
+      "Walnut",
+      "Charcoal"
+    ],
+    "tags": [
+      "modern",
+      "durable",
+      "popular"
+    ],
+    "description": "Demo description for Memory Foam Mattress. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 6,
+    "name": "Solid Wood Bed Frame",
+    "category": "Bedroom",
+    "price": 499,
+    "rating": 4.6,
+    "images": [
+      "img/p-07.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 50,
+    "colors": [
+      "White",
+      "Oak",
+      "Navy"
+    ],
+    "tags": [
+      "new",
+      "eco"
+    ],
+    "description": "Demo description for Solid Wood Bed Frame. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 7,
+    "name": "Nightstand with Drawer",
+    "category": "Bedroom",
+    "price": 99,
+    "rating": 4.3,
+    "images": [
+      "img/p-08.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 20,
+    "colors": [
+      "Natural",
+      "Walnut",
+      "Charcoal"
+    ],
+    "tags": [
+      "modern",
+      "durable",
+      "popular"
+    ],
+    "description": "Demo description for Nightstand with Drawer. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 8,
+    "name": "Dresser 6-Drawer",
+    "category": "Bedroom",
+    "price": 399,
+    "rating": 4.2,
+    "images": [
+      "img/p-09.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 25,
+    "colors": [
+      "White",
+      "Oak",
+      "Navy"
+    ],
+    "tags": [
+      "modern",
+      "durable",
+      "popular"
+    ],
+    "description": "Demo description for Dresser 6-Drawer. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 9,
+    "name": "Extendable Dining Table",
+    "category": "Dining",
+    "price": 699,
+    "rating": 4.6,
+    "images": [
+      "img/p-10.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 30,
+    "colors": [
+      "Natural",
+      "Walnut",
+      "Charcoal"
+    ],
+    "tags": [
+      "new",
+      "eco"
+    ],
+    "description": "Demo description for Extendable Dining Table. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 10,
+    "name": "Upholstered Dining Chair",
+    "category": "Dining",
+    "price": 129,
+    "rating": 4.4,
+    "images": [
+      "img/p-01.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 35,
+    "colors": [
+      "White",
+      "Oak",
+      "Navy"
+    ],
+    "tags": [
+      "modern",
+      "durable",
+      "popular"
+    ],
+    "description": "Demo description for Upholstered Dining Chair. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 11,
+    "name": "Bar Stool Set",
+    "category": "Dining",
+    "price": 149,
+    "rating": 4.3,
+    "images": [
+      "img/p-02.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 40,
+    "colors": [
+      "Natural",
+      "Walnut",
+      "Charcoal"
+    ],
+    "tags": [
+      "modern",
+      "durable",
+      "popular"
+    ],
+    "description": "Demo description for Bar Stool Set. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 12,
+    "name": "Buffet Sideboard",
+    "category": "Dining",
+    "price": 399,
+    "rating": 4.1,
+    "images": [
+      "img/p-03.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 45,
+    "colors": [
+      "White",
+      "Oak",
+      "Navy"
+    ],
+    "tags": [
+      "new",
+      "eco"
+    ],
+    "description": "Demo description for Buffet Sideboard. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 13,
+    "name": "Ergonomic Office Chair",
+    "category": "Office",
+    "price": 219,
+    "rating": 4.5,
+    "images": [
+      "img/p-04.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 50,
+    "colors": [
+      "Natural",
+      "Walnut",
+      "Charcoal"
+    ],
+    "tags": [
+      "modern",
+      "durable",
+      "popular"
+    ],
+    "description": "Demo description for Ergonomic Office Chair. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 14,
+    "name": "Standing Desk 120cm",
+    "category": "Office",
+    "price": 399,
+    "rating": 4.4,
+    "images": [
+      "img/p-05.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 20,
+    "colors": [
+      "White",
+      "Oak",
+      "Navy"
+    ],
+    "tags": [
+      "modern",
+      "durable",
+      "popular"
+    ],
+    "description": "Demo description for Standing Desk 120cm. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 15,
+    "name": "Mesh Desk Organizer",
+    "category": "Office",
+    "price": 39,
+    "rating": 4.2,
+    "images": [
+      "img/p-06.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 25,
+    "colors": [
+      "Natural",
+      "Walnut",
+      "Charcoal"
+    ],
+    "tags": [
+      "new",
+      "eco"
+    ],
+    "description": "Demo description for Mesh Desk Organizer. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 16,
+    "name": "Bookshelf 5-Tier",
+    "category": "Office",
+    "price": 169,
+    "rating": 4.1,
+    "images": [
+      "img/p-07.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 30,
+    "colors": [
+      "White",
+      "Oak",
+      "Navy"
+    ],
+    "tags": [
+      "modern",
+      "durable",
+      "popular"
+    ],
+    "description": "Demo description for Bookshelf 5-Tier. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 17,
+    "name": "Patio Lounge Chair",
+    "category": "Outdoor",
+    "price": 159,
+    "rating": 4.3,
+    "images": [
+      "img/p-08.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 35,
+    "colors": [
+      "Natural",
+      "Walnut",
+      "Charcoal"
+    ],
+    "tags": [
+      "modern",
+      "durable",
+      "popular"
+    ],
+    "description": "Demo description for Patio Lounge Chair. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 18,
+    "name": "Outdoor Dining Set",
+    "category": "Outdoor",
+    "price": 899,
+    "rating": 4.6,
+    "images": [
+      "img/p-09.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 40,
+    "colors": [
+      "White",
+      "Oak",
+      "Navy"
+    ],
+    "tags": [
+      "new",
+      "eco"
+    ],
+    "description": "Demo description for Outdoor Dining Set. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 19,
+    "name": "Garden Bench",
+    "category": "Outdoor",
+    "price": 219,
+    "rating": 4.0,
+    "images": [
+      "img/p-10.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 45,
+    "colors": [
+      "Natural",
+      "Walnut",
+      "Charcoal"
+    ],
+    "tags": [
+      "modern",
+      "durable",
+      "popular"
+    ],
+    "description": "Demo description for Garden Bench. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 20,
+    "name": "Umbrella 9ft",
+    "category": "Outdoor",
+    "price": 149,
+    "rating": 4.1,
+    "images": [
+      "img/p-01.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 50,
+    "colors": [
+      "White",
+      "Oak",
+      "Navy"
+    ],
+    "tags": [
+      "modern",
+      "durable",
+      "popular"
+    ],
+    "description": "Demo description for Umbrella 9ft. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 21,
+    "name": "Wool Throw Blanket",
+    "category": "Decor",
+    "price": 59,
+    "rating": 4.5,
+    "images": [
+      "img/p-02.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 20,
+    "colors": [
+      "Natural",
+      "Walnut",
+      "Charcoal"
+    ],
+    "tags": [
+      "new",
+      "eco"
+    ],
+    "description": "Demo description for Wool Throw Blanket. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 22,
+    "name": "Ceramic Vase Set",
+    "category": "Decor",
+    "price": 49,
+    "rating": 4.2,
+    "images": [
+      "img/p-03.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 25,
+    "colors": [
+      "White",
+      "Oak",
+      "Navy"
+    ],
+    "tags": [
+      "modern",
+      "durable",
+      "popular"
+    ],
+    "description": "Demo description for Ceramic Vase Set. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 23,
+    "name": "Wall Art Canvas",
+    "category": "Decor",
+    "price": 129,
+    "rating": 4.3,
+    "images": [
+      "img/p-04.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 30,
+    "colors": [
+      "Natural",
+      "Walnut",
+      "Charcoal"
+    ],
+    "tags": [
+      "modern",
+      "durable",
+      "popular"
+    ],
+    "description": "Demo description for Wall Art Canvas. Comfortable, modern, and durable design ideal for everyday use."
+  },
+  {
+    "id": 24,
+    "name": "Area Rug 8x10",
+    "category": "Decor",
+    "price": 299,
+    "rating": 4.1,
+    "images": [
+      "img/p-05.svg"
+    ],
+    "dimensions": "Varies by option",
+    "materials": "Solid wood, metal, fabric",
+    "stock": 35,
+    "colors": [
+      "White",
+      "Oak",
+      "Navy"
+    ],
+    "tags": [
+      "new",
+      "eco"
+    ],
+    "description": "Demo description for Area Rug 8x10. Comfortable, modern, and durable design ideal for everyday use."
+  }
+]
